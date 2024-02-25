@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻Atualmente estudando Desenvolvimento de Software na Cubos Academy;<br>🔎Procurando minha primeira oportunidade como Dev. Junior Full-Stack;<br>🌱Cursando ADS(Análise e Desenvolvimento de Sistemas);<br>🚀Evoluindo como programador e pessoa;
+🔎Procurando minha primeira oportunidade como Dev. Junior Full-Stack;<br>🌱Cursando ADS(Análise e Desenvolvimento de Sistemas);<br>🚀Evoluindo como programador e pessoa;
 
 
 ## 🌐 Socials:
